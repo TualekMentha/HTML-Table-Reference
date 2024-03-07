@@ -1,0 +1,54 @@
+body{
+    background-color: #FFE5E5;
+}
+
+* {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #5D3587;
+    text-align: center;
+    font-size: 28px;
+}
+
+table {
+    margin: auto;
+    width: 700px;
+    border-collapse: collapse;
+}
+
+.table thead {
+    background-color: #A367B1;
+}
+
+.table thead tr th {
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0.50px;
+    color: #FAF3F0;
+    padding: 10px;
+    border: 1px solid #FAF3F0;
+}
+
+.table tbody tr td {
+    font-size: 16px;
+    letter-spacing: 0.35px;
+    font-weight: normal;
+    background-color: #E0AED0;
+    padding: 6px;
+    text-align: left;
+    border: 1px solid #FAF3F0;
+}
+
+.code {
+    display: inline-block;
+    background-color: #FAF3F0;
+}
+
